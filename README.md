@@ -52,7 +52,9 @@
 ![Netbeans](https://img.shields.io/badge/Netbeans-b0003b.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_studio_code-2187c9.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![VsStudio](https://img.shields.io/badge/Visual_studio-9566b1.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+
 ![Android Studio](https://img.shields.io/badge/Android_studio-81ae49.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Phpmyadmin](https://img.shields.io/badge/phpmyadmin-70709d.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-e44d30.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Composer](https://img.shields.io/badge/composer-695d47.svg?style=for-the-badge&logo=composer&logoColor=white)
