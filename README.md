@@ -10,7 +10,7 @@
 </div>
 
 
-
+v
 ## 💻 Tech Stack
 
 ### 🤖 Lenguajes usados
@@ -58,7 +58,9 @@
 ![Git](https://img.shields.io/badge/git-e44d30.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Composer](https://img.shields.io/badge/composer-695d47.svg?style=for-the-badge&logo=composer&logoColor=white)
 ![Node](https://img.shields.io/badge/node-393c2f.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Junit5](https://img.shields.io/badge/junit5-d14e46.svg?style=for-the-badge&logo=junit5&logoColor=white)
 
+![Swagger](https://img.shields.io/badge/swagger-1c3847.svg?style=for-the-badge&logo=swagger&logoColor=white)
 ![Json](https://img.shields.io/badge/Json-efc402.svg?style=for-the-badge&logo=json&logoColor=white)
 ![Xml](https://img.shields.io/badge/xml-efc402.svg?style=for-the-badge&logo=xml&logoColor=white)
 
