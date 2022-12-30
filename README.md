@@ -5,12 +5,11 @@
 
 *Aspirante a artesano del software*
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=It+is+not+the+language+that+makes+programs+appear+simple.It+is+the+programmer+that+make+the+language+appear+simple!&author=Robert+C.+Martin,+Clean+Code&type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=It+is+not+the+language+that+makes+programs+appear+simple.It+is+the+programmer+that+make+the+language+appear+simple!&author=Robert+C.+Martin,+Clean+Code&type=horizontal&theme=nord#gh-dark-mode-only)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=It+is+not+the+language+that+makes+programs+appear+simple.It+is+the+programmer+that+make+the+language+appear+simple!&author=Robert+C.+Martin,+Clean+Code&type=horizontal&theme=light#gh-light-mode-only)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
-
-v
 ## 💻 Tech Stack
 
 ### 🤖 Lenguajes usados
